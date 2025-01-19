@@ -33,22 +33,18 @@ This project focuses on analysing historical stock market data + predicting futu
   - **Validation data** -- Actual prices compared against predicted prices.
   - **Predicted data** -- Forecasted stock prices.
 
-Here’s the updated README with added image URLs for the **Dependencies** section to make it more visually appealing:
-
----
-
 ## Dependencies
-- ![pandas](https://pandas.pydata.org/static/img/pandas.svg)  
+- <img src="https://pandas.pydata.org/static/img/pandas.svg" alt="pandas" width="80"/>  
 
-- ![numpy](https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg)  
+- <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="numpy" width="80"/>  
 
-- ![yfinance](https://github.com/ranaroussi/yfinance/raw/main/resources/logo/yfinance_128.png)  
+- <img src="https://github.com/ranaroussi/yfinance/raw/main/resources/logo/yfinance_128.png" alt="yfinance" width="80"/>  
 
-- ![matplotlib](https://matplotlib.org/stable/_static/images/logo2.svg)  
+- <img src="https://matplotlib.org/stable/_static/images/logo2.svg" alt="matplotlib" width="80"/>  
 
-- ![scikit-learn](https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png)  
+- <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" alt="scikit-learn" width="80"/>  
 
-- ![tensorflow/keras](https://upload.wikimedia.org/wikipedia/commons/a/ab/TensorFlow_logo.svg)  
+- <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/TensorFlow_logo.svg" alt="tensorflow" width="80"/>  
 
 ## Next Steps
 - Include additional technical indicators like moving averages or RSI.

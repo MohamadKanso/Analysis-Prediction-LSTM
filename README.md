@@ -33,13 +33,22 @@ This project focuses on analysing historical stock market data + predicting futu
   - **Validation data** -- Actual prices compared against predicted prices.
   - **Predicted data** -- Forecasted stock prices.
 
+Here’s the updated README with added image URLs for the **Dependencies** section to make it more visually appealing:
+
+---
+
 ## Dependencies
-- `pandas`
-- `numpy`
-- `yfinance`
-- `matplotlib`
-- `scikit-learn`
-- `tensorflow`/`keras`
+- ![pandas](https://pandas.pydata.org/static/img/pandas.svg)  
+
+- ![numpy](https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg)  
+
+- ![yfinance](https://github.com/ranaroussi/yfinance/raw/main/resources/logo/yfinance_128.png)  
+
+- ![matplotlib](https://matplotlib.org/stable/_static/images/logo2.svg)  
+
+- ![scikit-learn](https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png)  
+
+- ![tensorflow/keras](https://upload.wikimedia.org/wikipedia/commons/a/ab/TensorFlow_logo.svg)  
 
 ## Next Steps
 - Include additional technical indicators like moving averages or RSI.
